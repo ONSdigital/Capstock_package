@@ -1,4 +1,4 @@
-67b59688a1dbfc7676e52f37a9fcf49f *DESCRIPTION
+3ceb94b6ce22ac3588b03a64d53bbc91 *DESCRIPTION
 bf9862bf856be26dafab2762b1724c9f *INDEX
 e8aea2e461a4a8da61bd4d08c0cfdca6 *LICENCE
 c7d20e28ac5d732c08f2843f58162b15 *Meta/Rd.rds
@@ -7,11 +7,11 @@ fdd39a411f7ca057018b86cdc722a2e2 *Meta/data.rds
 dd7adaff4ab8c75ae85c35a53c8ce36a *Meta/hsearch.rds
 90acadf1e42335fc9b96f502ea8004bc *Meta/links.rds
 2918d14b46e890284b7540d0d5920c21 *Meta/nsInfo.rds
-715b69e7c3862288377e35ea44565fc2 *Meta/package.rds
+51c2d3eb774e9976db09913483b2f2c6 *Meta/package.rds
 4f5206aa6e2589079556d26bc8918ad0 *NAMESPACE
 d6c68f1fe41ced6e98a766a3757313da *R/capstock
-a2e67055e16251218e808a139aa3d2f4 *R/capstock.rdb
-e2d1324e27ddfefd2aeed103ab0096b2 *R/capstock.rdx
+45fa975dc36944ba3732df45a0a36321 *R/capstock.rdb
+29506913610b175158c6676a885f398b *R/capstock.rdx
 d025b711fee89a547f05d208529b1a54 *data/Constraining spec.xlsx
 78cda4f882eaaf2d2c762297a4a597f9 *data/Rdata.rdb
 8486c4e4140ad70f3e8503f7e7693887 *data/Rdata.rds
